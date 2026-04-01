@@ -6,7 +6,7 @@ I love building useful projects, solving challenging problems, and continuously 
 
 ## 🛠️ Technologies & Skills
 Languages:  Java, Python, JavaScript  
-Frontend: HTML, CSS, ReactJS, Tailwind CSS , Redux
+Frontend: HTML, CSS, ReactJS, Tailwind CSS ,Redux 
 Backend: Node.js, Express.js  
 Databases: MongoDB, MySQL  
 Others:  Git & GitHub, DSA, REST APIs, Data Analytics, AI/ML  
